@@ -1,0 +1,15 @@
+{
+    "name": "mr0re/to_do_list",
+    "autoload": {
+        "psr-4": {
+            "Mr0re\\ToDoList\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mr0reo12",
+            "email": "angelo321.lagomarsino123@gmail.com"
+        }
+    ],
+    "require": {}
+}
